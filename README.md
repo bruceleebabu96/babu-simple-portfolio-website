@@ -1,5 +1,4 @@
-# babu-simple-portfolio-website
-# Portfolio Website
+# Babu Simple Portfolio Website
 
 This repository contains my portfolio website created using HTML and basic CSS.
 
